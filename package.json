@@ -2,7 +2,7 @@
   "name": "in-extremo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://norbertbrzeski.github.io/in-extremo",
+  "homepage": "./build",
   "dependencies": {
     "animate.css": "^3.5.2",
     "jquery": "^3.3.0",
